@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://ebank-2t3r.onrender.com](https://ebank-2t3r.onrender.com)
+[https://banking-system-api-ajyy.onrender.com](https://banking-system-api-ajyy.onrender.com)
 
 <h2>Project Screenshots:</h2>
 
@@ -123,7 +123,7 @@ For example, in `Frontend\src\state\features\Account\accountServices.tsx`, you n
 ```
 const API_URL =
   process.env.NODE_ENV === "production"
-    ? "https://ebank-2t3r.onrender.com/api/account/"
+    ? "https://banking-system-api-ajyy.onrender.com/api/account/"
     : "http://localhost:5000/api/account/";
 ```
 
